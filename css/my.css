@@ -1,0 +1,29 @@
+#page-header {
+    background-color: #b3b3b3;
+}
+
+#site-menu li {
+    padding: 0px;
+}
+
+#site-menu li a {
+    display: block;
+    color: white;
+    padding: 20px 0px;
+    text-align: center;
+}
+
+#site-logo {
+    padding-top: 50px;
+    text-align: center;
+}
+
+#prolog{
+    text-align: center;
+    padding: 60px 0px;
+}
+
+#site-case {
+    text-align: center;
+    padding-top: -30px 0px;
+}
